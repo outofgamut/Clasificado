@@ -25,11 +25,11 @@ IBM Watson Conversations
 
 ### Credits:
 #### Team Los Pepes
-Heet Sankesara |
-Shivam Saboo | 
-Aman Yadav | 
+[Heet Sankesara](https://github.com/Hsankesara) |
+[Shivam Saboo](https://github.com/shivamsaboo17) | 
+[Aman Yadav](https://github.com/amany9000) | 
 Rohan Dhoot | 
-Ajay Guru
+[Ajay Guru](https://github.com/guru-DeV-002)
 
 ### watch working demo on youtube:
 https://www.youtube.com/watch?v=2OtMLs1cjbw
